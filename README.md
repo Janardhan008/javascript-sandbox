@@ -32,4 +32,4 @@ Code
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-practice-project.git
+   git clone https://github.com/Janardhan008/javascript-sandbox.git
