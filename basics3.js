@@ -29,7 +29,7 @@ let total =marks.reduce((sum,mark)=>sum+mark,0)
 console.log(total)
 var scores = [12,13,14,16]
 //create new array with even numbers of scores and multiply each value
-// with 3 and sum themarray [12,14,16]
+// with 3 and sum them array [12,14,16]
 var evenScores =[]
 for(let i =0;i<scores.length;i++)
 {

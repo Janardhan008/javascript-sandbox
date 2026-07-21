@@ -31,6 +31,11 @@ let sumOfNumbers= (c,d)=> c+d
 
 console.log(sumOfNumbers(2,3))
 
+// proper function declaration (was an incomplete signature)
+let combine = function (e,f) {
+   
+    return e - f
+}
 
-
+console.log(combine(4,5))
 
