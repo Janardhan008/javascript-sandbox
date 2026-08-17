@@ -19,12 +19,6 @@ module.exports = class Person
     {
         console.log(this.firstName+this.lastName)
     }
-
-
-
-
-
-
 }
 
 // let person =new Person("Tim","Joseph")
